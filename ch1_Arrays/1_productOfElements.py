@@ -1,5 +1,3 @@
-#This is  test text for readability
-
 #Given an array of integers, return an array that contains the product
 #of all ints except for the value of i
 
